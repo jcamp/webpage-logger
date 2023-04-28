@@ -1,7 +1,7 @@
 # webpage-logger
 Log basic details of a visitor to a website
 
-A website logger that logs every visit to a webpage, including the date, time, webpage URL, and IP address of the visitor. 
+A **website logger** that logs every visit to a webpage, including the date, time, webpage URL, and IP address of the visitor. Useful for errors and capturing statistics.
  
 ## Logger - log web page activity to a log file (csv file) on the server
 
